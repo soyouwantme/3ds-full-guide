@@ -1,0 +1,29 @@
+# 游戏资源与下载：不随仓库发布
+games/
+sd-backup-2026-08-26/
+backup/
+downloads/
+themes/
+tools/
+3DS《怪物猎人4G》高清贴图.zip
+3DS《勇气默示录》高清纹理包.rar
+fix-boot.zip
+
+# 归档与 3DS 资源格式
+*.zip
+*.rar
+*.7z
+*.cia
+*.3dsx
+*.nds
+*.rom
+*.bin
+*.firm
+*.3gx
+*.cxi
+*.app
+*.exefs
+*.bcstm
+
+# macOS
+.DS_Store
