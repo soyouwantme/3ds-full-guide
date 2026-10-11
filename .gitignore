@@ -1,18 +1,16 @@
-# 游戏资源与下载：不随仓库发布
+# 本地游戏备份：不进 git，不上传
 games/
+
+# 历史遗留的忽略项（原根目录个人数据已移入 local/，由 local/ 统一排除；
+# 以下保留防止误提交历史路径）
 sd-backup-2026-08-26/
 backup/
 downloads/
 themes/
 tools/
-3DS《怪物猎人4G》高清贴图.zip
-3DS《勇气默示录》高清纹理包.rar
 fix-boot.zip
 
 # 归档与 3DS 资源格式
-*.zip
-*.rar
-*.7z
 *.cia
 *.3dsx
 *.nds
@@ -24,6 +22,9 @@ fix-boot.zip
 *.app
 *.exefs
 *.bcstm
+
+# 本地设备记录：个人/机器相关内容，不进 git，不上传
+local/
 
 # macOS
 .DS_Store
