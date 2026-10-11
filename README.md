@@ -31,7 +31,7 @@
 
 [README.md](docs/02-工具百科/README.md) 是工具总表（用途、运行位置、官方下载、本仓库留档、详见页面），各工具详情：
 
-Luma3DS、GodMode9、FBI、TYSS、Universal-Updater、HomebrewLauncher、Anemone3DS、ftpd与文件传输、BootNTR与金手指、中文字库、LumaLocaleSwitcher
+Luma3DS、GodMode9、FBI、TYSS、Universal-Updater、HomebrewLauncher、Anemone3DS、ftpd与文件传输、BootNTR与金手指、中文字库、LumaLocaleSwitcher、NSUI
 
 ### 03-游戏与体验
 

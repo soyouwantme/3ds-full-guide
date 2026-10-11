@@ -36,7 +36,7 @@ cd <generator 目录>   # 必须在该目录内运行，脚本用相对路径找
 
 ## vcoven：GBA ROM → Virtual Console CIA
 
-一句话用途：Mac 原生 CLI，把 `.gba` 烘焙成官方样式的 GBA VC CIA（HOME 菜单 VC 图标、AGB_FIRM 原生硬件运行、系统级存档管理）。免 donor、免 Wine、免 Windows——是 NSUI（Windows 专用）在 Mac 上的替代。
+一句话用途：Mac 原生 CLI，把 `.gba` 烘焙成官方样式的 GBA VC CIA（HOME 菜单 VC 图标、AGB_FIRM 原生硬件运行、系统级存档管理）。免 donor、免 Wine、免 Windows——是 NSUI（Windows 专用）在 Mac 上的替代。Windows 上的对应工具见 [NSUI.md](NSUI.md)。
 
 - 官方发布：[vedoot/vcoven](https://github.com/vedoot/vcoven)（v0.1 仅支持 macOS Apple Silicon，稳定；Intel Mac 未提供）及网页版 [vcoven.com](https://vcoven.com)
 - 安装：`brew tap vedoot/vcoven && brew install vcoven`

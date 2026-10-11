@@ -51,9 +51,9 @@ TWiLight Menu++ 的安装、ROM 放置和常见问题。
 | 游戏类型 | 方案 | 产物 | 依赖 |
 | --- | --- | --- | --- |
 | NDS | [YANBF](https://github.com/YANBForwarder/YANBF) forwarder | 几百 KB 的 CIA（启动器，rom 本体仍须在卡上原路径） | forwarder 支持文件 + bootstrap.cia（SD 侧一次性配置） |
-| GBA | [vcoven](https://github.com/vedoot/vcoven) VC 注入 | 完整 VC CIA（AGB_FIRM 原生运行，Mac 原生 CLI，免 Windows/NSUI） | 无 |
+| GBA | vcoven（macOS）/ NSUI（Windows）VC 注入 | 完整 VC CIA（AGB_FIRM 原生运行） | 无 |
 
-安装、生成命令与踩坑详见 [YANBF与vcoven](../02-工具百科/YANBF与vcoven.md)。与 TWiLight 是互补关系：图标直启适合常玩的少量游戏（每加一个要回电脑生成），游戏库批量管理仍靠 TWiLight（rom 丢进 `roms/` 即玩）。
+安装、生成命令与踩坑详见 [YANBF与vcoven](../02-工具百科/YANBF与vcoven.md)（vcoven）与 [NSUI](../02-工具百科/NSUI.md)（NSUI，Windows 实测）。与 TWiLight 是互补关系：图标直启适合常玩的少量游戏（每加一个要回电脑生成），游戏库批量管理仍靠 TWiLight（rom 丢进 `roms/` 即玩）。
 
 ## GBA 游戏不显示的问题
 

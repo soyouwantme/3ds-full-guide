@@ -37,7 +37,7 @@
 | JKSM | 存档导入导出（老工具，已被其继承者 [TYSS](TYSS.md) 取代） | 3DS：3DSX | [J-D-K/JKSM Releases](https://github.com/J-D-K/JKSM/releases) | 未留档 | — |
 | PKSM | 宝可梦存档管理与配信注入 | 3DS：CIA / 3DSX | [FlagBrew/PKSM Releases](https://github.com/FlagBrew/PKSM/releases) | 未留档 | — |
 
-## PC 端（macOS）
+## PC 端
 
 | 工具 | 一句话用途 | 运行位置 | 官方下载 | 本仓库留档 | 详见 |
 | --- | --- | --- | --- | --- | --- |
@@ -45,6 +45,7 @@
 | Tulip3DS | PC 端 3DS 模拟器 + 无线直装 CIA 工具集 | PC：macOS（配 3DS 端 Client CIA/Installer） | [OasisAkari/Tulip3DS Releases](https://github.com/OasisAkari/Tulip3DS/releases) | `tools/pc/Tulip3DS.app`、`tools/pc/Tulip3DS-1.8-macos.zip` | — |
 | YANBF | NDS 游戏转 HOME 菜单 forwarder CIA（macOS 原生，跳过 TWiLight 直启） | PC：macOS / Windows / Linux | [YANBForwarder/YANBF Releases](https://github.com/YANBForwarder/YANBF/releases) | `tools/3ds/YANBF/` | [YANBF与vcoven](YANBF与vcoven.md) |
 | vcoven | GBA ROM 烘焙成 3DS VC CIA（Mac 原生 CLI，免 donor，替代 NSUI） | PC：macOS Apple Silicon | [vedoot/vcoven](https://github.com/vedoot/vcoven) | `tools/3ds/vcoven/`（手动安装实例） | [YANBF与vcoven](YANBF与vcoven.md) |
+| NSUI | GBA 等复古平台 ROM 转 VC CIA（Windows 专用注入器，含盒图数据库） | PC：Windows（.NET 4.5.2+，Win10/11 预装） | [GBAtemp 发布帖](https://gbatemp.net/threads/discussion-new-super-ultimate-injector-nsui.500376/)（Beta 28） | `tools/3ds/NSUI/` | [NSUI.md](NSUI.md) |
 
 ## 说明
 
